@@ -1,0 +1,10 @@
+/* .center {
+  text-align: center;
+  background-color: red;
+} */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* body {
+  background: linear-gradient(to bottom, #14a4ee 0%, #126ba8 50%, #0c3a6b 100%);
+} */
